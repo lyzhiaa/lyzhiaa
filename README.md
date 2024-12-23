@@ -8,9 +8,9 @@
     <td>
       <img src="https://img.freepik.com/premium-photo/cute-girl-sitting-pink-cloud-with-laptop-purple-minimal-background_511644-1033.jpg" alt="Image Description" width="500px";>
     </td>
-    <td>
+<!--     <td>
       <h1>I am a computer science student.</h1>
-    </td>
+    </td> -->
  </tr>
 </table>
 
