@@ -1,4 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FCBA03&width=435&lines=Always+learning%2C+always+sharing!+I'm+Eung+Lyzhia..." alt="Typing SVG" /></a>
+<div style="text-align: center; margin-top: 20px;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FCBA03&width=435&lines=Always+learning%2C+always+sharing!;+I'm+Eung+Lyzhia..." alt="Typing SVG" />
+    </a>
+</div></a>
 <hr/>
 
 
